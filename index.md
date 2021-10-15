@@ -10,7 +10,7 @@ updated: 2020-07-21
 tags:
   - metrics
   - performance
-  - web-vitals
+  - web-vitals;
 ---
 
 Optimizing for quality of user experience is key to the long-term success of any
